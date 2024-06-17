@@ -5451,7 +5451,7 @@
       "unpackedsize": 1249
     }
   ],
-  "executable": "bin/client_launcher.exe",
+  "executable": "bin/Asteria.exe",
   "generation": "second",
   "variant": "regular"
 }
